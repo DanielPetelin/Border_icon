@@ -1,0 +1,4 @@
+.border {
+    border: 2px solid rgb(71, 71, 71);
+    box-shadow: 0 0 10px rgb(71, 71, 71);
+}
